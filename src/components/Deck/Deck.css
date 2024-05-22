@@ -1,0 +1,17 @@
+.deck{
+  border: 1px solid ;
+  border-style: dashed;
+  border-radius: 5%;
+  width: 226px;
+  height: 370px;
+  display: flex;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  background: linear-gradient(to top, rgba(54, 51, 51, 0.829), #d3d3d3);
+  font-size: 50px;
+
+}
+
+
+
+
